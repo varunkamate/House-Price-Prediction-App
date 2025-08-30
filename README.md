@@ -36,7 +36,11 @@ Enter house details and get an instant price estimate
 
 <img width="1129" height="818" alt="Screenshot 2025-08-30 152607" src="https://github.com/user-attachments/assets/9ec29fe3-cfc1-4c0d-8473-767274857016" />
 
+==============================================================================================================================================================================================
+
 <img width="1858" height="865" alt="Screenshot 2025-08-30 152411" src="https://github.com/user-attachments/assets/bebf90e2-f066-4904-aa4c-cbe2235b59b2" />
+
+==============================================================================================================================================================================================
 
 <img width="1353" height="850" alt="Screenshot 2025-08-30 152456" src="https://github.com/user-attachments/assets/8d6a899b-2dd8-42e8-ac8c-439af1b014b5" />
 
