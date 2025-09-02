@@ -29,3 +29,4 @@ features = np.array([[Square_Footage, Num_Bedrooms, Num_Bathrooms, Year_Built, L
 if st.sidebar.button("🔮 Predict Price"):
     prediction = model.predict(features)
     st.success(f"Estimated House Price: ${prediction[0]:,.2f}")
+
