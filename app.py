@@ -30,3 +30,4 @@ if st.sidebar.button("🔮 Predict Price"):
     prediction = model.predict(features)
     st.success(f"Estimated House Price: ${prediction[0]:,.2f}")
 
+
